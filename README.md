@@ -2,7 +2,8 @@ MNIST Digit Classification using Keras
 
 Project Overview:
             
-            This project demonstrates how to build and train a deep learning model using Keras for classifying handwritten digits from the MNIST dataset. It also includes code for loading and pre-processing custom images for classification, using OpenCV for image manipulation.
+            This project demonstrates how to build and train a deep learning model using Keras for classifying handwritten digits from the MNIST dataset.
+            It also includes code for loading and pre-processing custom images for classification, using OpenCV for image manipulation.
 
 Sections:
 
@@ -15,7 +16,7 @@ Sections:
               Custom Image Classification
               Conclusion
 
-Model Architecture:
+Model Architecture(NN):
                       
     Input Layer: 784 units (28x28 pixels flattened)
     Hidden Layer 1: 10 units, ReLU activation
